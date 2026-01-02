@@ -1,0 +1,26 @@
+
+CSS ==> Casecading Style Sheet
+
+Types of CSS
+=============
+1.Inline CSS (Inline Css Use in Opening tag with style="" Atribute) 
+==>[many low usage inline css]
+
+2.Internal CSS(Internal Css Use in head with style tag with identifier)
+==>[medium usage of internal css]
+
+3 types Identifier
+===================
+1.tag (Tag Identifier use in style tag and call tag for apply internal css Exmple: h1{ color:red;})
+
+
+2.Class(Class Identifier Use in opening tag as a atribute Example: class="usage_class" every class atribute name will be differant) 
+==> Mostly useful identifier is class.
+
+
+ 3.Id (Id Identifier Use in opening tag as a atribute Example: id="usage_id" every id atribute name  will be differant) 
+
+
+3.External CSS (External Css Use in External new file Example: style.css all css write in style.css file with identifier & style.css file linkup with html file in head tag with link tag Example: <link rel="stylesheet" href="style.css">) 
+==>[High usage external css]
+

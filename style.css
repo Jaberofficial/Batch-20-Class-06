@@ -1,0 +1,18 @@
+/* External Css tag identifier use {} after tag name*/
+h3 {
+    color: brown;
+    background-color: chartreuse;
+}
+
+/* External Css Class identifier use . before class name */
+.usage_class_01 {
+    color: fuchsia;
+    background-color: darkgreen;
+}
+
+/* External Css Id identifier use # before id name*/
+#usage_id_01 {
+    color: white;
+    background-color: darkcyan;
+
+}
